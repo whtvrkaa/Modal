@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Modal/static/js/main.27402139.chunk.js",
-    "main.js.map": "/Modal/static/js/main.27402139.chunk.js.map",
+    "main.js": "/Modal/static/js/main.9db588fd.chunk.js",
+    "main.js.map": "/Modal/static/js/main.9db588fd.chunk.js.map",
     "runtime-main.js": "/Modal/static/js/runtime-main.fd97079f.js",
     "runtime-main.js.map": "/Modal/static/js/runtime-main.fd97079f.js.map",
-    "static/js/2.3d049f78.chunk.js": "/Modal/static/js/2.3d049f78.chunk.js",
-    "static/js/2.3d049f78.chunk.js.map": "/Modal/static/js/2.3d049f78.chunk.js.map",
+    "static/js/2.cfa0d039.chunk.js": "/Modal/static/js/2.cfa0d039.chunk.js",
+    "static/js/2.cfa0d039.chunk.js.map": "/Modal/static/js/2.cfa0d039.chunk.js.map",
     "index.html": "/Modal/index.html",
-    "static/js/2.3d049f78.chunk.js.LICENSE.txt": "/Modal/static/js/2.3d049f78.chunk.js.LICENSE.txt",
+    "static/js/2.cfa0d039.chunk.js.LICENSE.txt": "/Modal/static/js/2.cfa0d039.chunk.js.LICENSE.txt",
     "static/media/modal.a16ad5d8.jpg": "/Modal/static/media/modal.a16ad5d8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fd97079f.js",
-    "static/js/2.3d049f78.chunk.js",
-    "static/js/main.27402139.chunk.js"
+    "static/js/2.cfa0d039.chunk.js",
+    "static/js/main.9db588fd.chunk.js"
   ]
 }
